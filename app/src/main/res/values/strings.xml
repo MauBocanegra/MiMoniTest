@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Mimoni Test</string>
+
+    <string name="string_datos">Categorias</string>
+    <string name="string_educacion">Búsqueda</string>
+    <string name="string_experiencia">Experiencia</string>
+    <string name="string_cursos">Cursos y Otros</string>
+    <string name="string_contacto">Contacto</string>
+
+    <string name="string_detalle_titulo">Características</string>
+    <string name="detalle_subt1">Subtítulo</string>
+    <string name="detalle_subsec1">Subsección</string>
+
+    <string name="lorem1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur aliquet nibh at ipsum pharetra, eu varius nisl convallis. Fusce blandit elit et augue semper blandit. Etiam pretium dolor leo, tristique laoreet metus porttitor ac. Proin tempor est id lectus scelerisque, in tincidunt odio vestibulum. Maecenas quis odio in tellus bibendum vulputate a sed diam. Praesent sollicitudin sollicitudin arcu in interdum.
+        Fusce et nunc nec mauris viverra consectetur. Cras maximus odio eu rhoncus venenatis. Aenean et ultricies elit, vitae mollis eros. Etiam hendrerit, dui ac rutrum efficitur, dui lorem vehicula odio, non iaculis eros dolor ut dui. Vivamus facilisis lacus at tortor tempor finibus. Etiam massa ipsum, congue eget erat eget, faucibus efficitur tellus. Suspendisse vitae dictum nulla.</string>
+
+    <string name="search_title">Buscar</string>
+    <string name="search_header">Busca y encuentra tus secciones favoritas</string>
+
+    <string name="search_hint">Animals</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_detalle">DetalleActivity</string>
+    <string name="title_activity_search">SearchActivity</string>
+</resources>

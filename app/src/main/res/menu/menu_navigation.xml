@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/drawer_datos"
+            android:checked="true"
+            android:icon="@mipmap/ic_library"
+            android:title="@string/string_datos"/>
+
+        <item
+            android:id="@+id/drawer_educacion"
+            android:checked="true"
+            android:icon="@mipmap/ic_search"
+            android:title="@string/string_educacion"/>
+
+    </group>
+</menu>

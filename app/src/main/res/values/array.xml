@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="datos_secciones">
+        <item>Animals</item>
+        <item>City</item>
+        <item>Food</item>
+        <item>Nightlife</item>
+        <item>Nature</item>
+        <item>Sports</item>
+        <item>Tech</item>
+    </string-array>
+
+    <string-array name="images_secciones">
+        <item>http://lorempixel.com/180/120/animals/</item>
+        <item>http://lorempixel.com/180/120/city/</item>
+        <item>http://lorempixel.com/180/120/food/</item>
+        <item>http://lorempixel.com/180/120/nightlife/</item>
+        <item>http://lorempixel.com/180/120/nature/</item>
+        <item>http://lorempixel.com/180/120/sports/</item>
+        <item>http://lorempixel.com/180/120/technics/</item>
+    </string-array>
+
+</resources>
